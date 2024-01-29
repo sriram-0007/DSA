@@ -1,0 +1,1 @@
+{"name":"Local: dfsGraph3","url":"c:\\Users\\srira\\OneDrive\\Desktop\\DSA\\dfsGraph3.cpp","tests":[{"id":1706427873433,"input":"5 2\n2 5 3 4 8\n1 4\n4 5","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\srira\\OneDrive\\Desktop\\DSA\\dfsGraph3.cpp","group":"local","local":true}

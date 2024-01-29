@@ -1,0 +1,1 @@
+{"name":"Local: graph1","url":"c:\\Users\\srira\\OneDrive\\Desktop\\DSA\\graph1.cpp","tests":[{"id":1706278458648,"input":"8 4\n1 2 1 2 1 2 1","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\srira\\OneDrive\\Desktop\\DSA\\graph1.cpp","group":"local","local":true}

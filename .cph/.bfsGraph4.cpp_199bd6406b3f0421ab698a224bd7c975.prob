@@ -1,0 +1,1 @@
+{"name":"Local: bfsGraph4","url":"c:\\Users\\srira\\OneDrive\\Desktop\\DSA\\bfsGraph4.cpp","tests":[{"id":1706436772891,"input":"7 5\n3 2 5 4\n0\n2 1 2\n1 1\n2 6 7","output":"4 4 1 4 4 2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\srira\\OneDrive\\Desktop\\DSA\\bfsGraph4.cpp","group":"local","local":true}

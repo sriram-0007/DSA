@@ -1,0 +1,1 @@
+{"name":"Local: d1","url":"c:\\Users\\srira\\OneDrive\\Desktop\\DSA\\d1.cpp","tests":[{"id":1706277102897,"input":"8 4\n1 2 1 2 1 2 1","output":"YES"},{"id":1706277151243,"input":"8 5\n1 2 1 2 1 1 1","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\srira\\OneDrive\\Desktop\\DSA\\d1.cpp","group":"local","local":true}
