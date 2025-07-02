@@ -13,10 +13,19 @@ int solve(int n,int& mod,vector<int>&dp){
 }
 int main(){
     int n;
-    
     cin>>n;
-    vector<int>dp(n+1,-1);
+    vector<int>dp(n+1,0);
     int mod=1e9+7;
-    cout<<solve(n,mod,dp);
+    //cout<<solve(n,mod,dp);
+    dp[0]=1;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=6;j++){
+            if(j<=i){
+                dp[i]=(dp[i]+dp[i-j])%mod;
+            }
+        }
+    }
+    cout<<dp[n];
+
     return 0;
 }
